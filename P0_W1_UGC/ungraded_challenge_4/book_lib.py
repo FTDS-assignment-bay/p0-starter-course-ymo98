@@ -55,5 +55,3 @@ class Library():
                     
     def display_lib(self):
         print (self.lib)
-
-    
